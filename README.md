@@ -7,4 +7,5 @@ nodejs 설치 (https://nodejs.org/dist/v14.8.0/node-v14.8.0-x64.msi)
 
 https://127.0.0.1:3000/student?name=이름
 
+
 기본 구조 잡아놨으니 API 만들기 졸라 쉬워짐.
