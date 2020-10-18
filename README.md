@@ -5,7 +5,7 @@ nodejs 설치 (https://nodejs.org/dist/v14.8.0/node-v14.8.0-x64.msi)
 
 프로젝트 최상위폴더에서 npm start
 
-http://127.0.0.1:3000/student?name=이름
+http://127.0.0.1:3000/query?name=이름
 ***
 DB config 파일 필수
 ***

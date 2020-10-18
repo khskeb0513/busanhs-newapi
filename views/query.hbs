@@ -1,0 +1,46 @@
+<h1>
+    Select service you want.
+</h1>
+<ul>
+    <li>
+        Students
+        <ul>
+            {{#result}}
+                <br>
+                <li>
+                    {{grade}}학년
+                    <select id="students_{{grade}}">
+                        {{#bans}}
+                            <option value="{{this}}">{{this}}</option>
+                        {{/bans}}
+                    </select> 반 <a onclick="click_go('students_{{grade}}', 'students')">➡️</a>
+                </li>
+            {{/result}}
+        </ul>
+    </li>
+    <br>
+    <li>
+        Arrived
+        <ul>
+            {{#result}}
+                <br>
+                <li>
+                    {{grade}}학년
+                    <select id="arrived_{{grade}}">
+                        {{#bans}}
+                            <option value="{{this}}">{{this}}</option>
+                        {{/bans}}
+                    </select> 반 <a onclick="click_go('arrived_{{grade}}', 'arrived')">➡️</a>
+                </li>
+            {{/result}}
+        </ul>
+    </li>
+</ul>
+<script>
+    const click_go = (select, link) => {
+        const element = document.getElementById(select)
+        const grade = select[select.length - 1]
+        const ban = element.options[element.selectedIndex].value
+        window.location.href = `/query/${link}?grade=${grade}&ban=${ban}`
+    }
+</script>

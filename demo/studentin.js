@@ -1,0 +1,4132 @@
+module.exports = [{
+    "inDate": "2018-04-13T00:00:00.000Z",
+    "inTime": "999999",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "정상처리",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": null
+}, {
+    "inDate": "2018-04-16T00:00:00.000Z",
+    "inTime": "073603",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-04-17T00:00:00.000Z",
+    "inTime": "070822",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-04-18T00:00:00.000Z",
+    "inTime": "070608",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-04-19T00:00:00.000Z",
+    "inTime": "070416",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-04-20T00:00:00.000Z",
+    "inTime": "071005",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-04-23T00:00:00.000Z",
+    "inTime": "073248",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-04-24T00:00:00.000Z",
+    "inTime": "070311",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-04-25T00:00:00.000Z",
+    "inTime": "070435",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-04-26T00:00:00.000Z",
+    "inTime": "070913",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-04-27T00:00:00.000Z",
+    "inTime": "070804",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-04-30T00:00:00.000Z",
+    "inTime": "074754",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-01T00:00:00.000Z",
+    "inTime": "070537",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-02T00:00:00.000Z",
+    "inTime": "070234",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-03T00:00:00.000Z",
+    "inTime": "070656",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-08T00:00:00.000Z",
+    "inTime": "073120",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-09T00:00:00.000Z",
+    "inTime": "070232",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-10T00:00:00.000Z",
+    "inTime": "070453",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-11T00:00:00.000Z",
+    "inTime": "061756",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-14T00:00:00.000Z",
+    "inTime": "065110",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-15T00:00:00.000Z",
+    "inTime": "072936",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-16T00:00:00.000Z",
+    "inTime": "065956",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-17T00:00:00.000Z",
+    "inTime": "999999",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "정상처리",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": null
+}, {
+    "inDate": "2018-05-18T00:00:00.000Z",
+    "inTime": "999999",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "정상처리",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": null
+}, {
+    "inDate": "2018-05-23T00:00:00.000Z",
+    "inTime": "074222",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-24T00:00:00.000Z",
+    "inTime": "083818",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "2차지각",
+    "bigo": "",
+    "state": "A2",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-25T00:00:00.000Z",
+    "inTime": "070631",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-28T00:00:00.000Z",
+    "inTime": "073824",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-05-29T00:00:00.000Z",
+    "inTime": "070455",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-04T00:00:00.000Z",
+    "inTime": "074232",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-05T00:00:00.000Z",
+    "inTime": "071748",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-07T00:00:00.000Z",
+    "inTime": "074521",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-08T00:00:00.000Z",
+    "inTime": "071111",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "카드미소지 = -1",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-11T00:00:00.000Z",
+    "inTime": "074508",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-12T00:00:00.000Z",
+    "inTime": "070239",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-14T00:00:00.000Z",
+    "inTime": "064555",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-15T00:00:00.000Z",
+    "inTime": "070351",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-18T00:00:00.000Z",
+    "inTime": "074931",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "카드미소지 = -1",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-19T00:00:00.000Z",
+    "inTime": "070836",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-20T00:00:00.000Z",
+    "inTime": "070322",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-21T00:00:00.000Z",
+    "inTime": "070358",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-25T00:00:00.000Z",
+    "inTime": "070827",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-26T00:00:00.000Z",
+    "inTime": "060548",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-27T00:00:00.000Z",
+    "inTime": "060509",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-28T00:00:00.000Z",
+    "inTime": "060403",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-06-29T00:00:00.000Z",
+    "inTime": "070202",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-02T00:00:00.000Z",
+    "inTime": "071930",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-03T00:00:00.000Z",
+    "inTime": "065710",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-04T00:00:00.000Z",
+    "inTime": "063204",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-05T00:00:00.000Z",
+    "inTime": "070233",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-06T00:00:00.000Z",
+    "inTime": "060551",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-09T00:00:00.000Z",
+    "inTime": "074816",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-10T00:00:00.000Z",
+    "inTime": "061508",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-11T00:00:00.000Z",
+    "inTime": "061712",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-12T00:00:00.000Z",
+    "inTime": "070033",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-13T00:00:00.000Z",
+    "inTime": "062505",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-16T00:00:00.000Z",
+    "inTime": "074556",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-17T00:00:00.000Z",
+    "inTime": "062124",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-18T00:00:00.000Z",
+    "inTime": "061456",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-19T00:00:00.000Z",
+    "inTime": "070156",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-07-20T00:00:00.000Z",
+    "inTime": "062609",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-08-13T00:00:00.000Z",
+    "inTime": "073213",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-08-14T00:00:00.000Z",
+    "inTime": "070439",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-08-16T00:00:00.000Z",
+    "inTime": "074137",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-08-17T00:00:00.000Z",
+    "inTime": "070041",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-08-20T00:00:00.000Z",
+    "inTime": "074109",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-08-21T00:00:00.000Z",
+    "inTime": "061645",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-08-22T00:00:00.000Z",
+    "inTime": "062044",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-08-23T00:00:00.000Z",
+    "inTime": "070356",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-08-24T00:00:00.000Z",
+    "inTime": "062741",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-08-27T00:00:00.000Z",
+    "inTime": "074628",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-08-28T00:00:00.000Z",
+    "inTime": "061623",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-08-29T00:00:00.000Z",
+    "inTime": "060513",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-08-30T00:00:00.000Z",
+    "inTime": "061651",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-08-31T00:00:00.000Z",
+    "inTime": "065121",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-03T00:00:00.000Z",
+    "inTime": "073203",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-04T00:00:00.000Z",
+    "inTime": "065259",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-05T00:00:00.000Z",
+    "inTime": "062245",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-06T00:00:00.000Z",
+    "inTime": "060447",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-07T00:00:00.000Z",
+    "inTime": "062152",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-10T00:00:00.000Z",
+    "inTime": "073524",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-11T00:00:00.000Z",
+    "inTime": "073151",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-12T00:00:00.000Z",
+    "inTime": "060120",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-13T00:00:00.000Z",
+    "inTime": "054755",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-14T00:00:00.000Z",
+    "inTime": "093558",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "2차지각",
+    "bigo": "",
+    "state": "A2",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-17T00:00:00.000Z",
+    "inTime": "072811",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-18T00:00:00.000Z",
+    "inTime": "064833",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-19T00:00:00.000Z",
+    "inTime": "070051",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-20T00:00:00.000Z",
+    "inTime": "063353",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-27T00:00:00.000Z",
+    "inTime": "071857",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-09-28T00:00:00.000Z",
+    "inTime": "065525",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-01T00:00:00.000Z",
+    "inTime": "072338",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-02T00:00:00.000Z",
+    "inTime": "080508",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "1차지각",
+    "bigo": "",
+    "state": "A1",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-04T00:00:00.000Z",
+    "inTime": "074008",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-05T00:00:00.000Z",
+    "inTime": "065805",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-08T00:00:00.000Z",
+    "inTime": "073501",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-10T00:00:00.000Z",
+    "inTime": "074024",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-11T00:00:00.000Z",
+    "inTime": "070530",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-12T00:00:00.000Z",
+    "inTime": "070802",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-15T00:00:00.000Z",
+    "inTime": "073859",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-16T00:00:00.000Z",
+    "inTime": "070509",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-17T00:00:00.000Z",
+    "inTime": "065117",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-18T00:00:00.000Z",
+    "inTime": "070237",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-19T00:00:00.000Z",
+    "inTime": "065854",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-22T00:00:00.000Z",
+    "inTime": "074116",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-23T00:00:00.000Z",
+    "inTime": "070837",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-24T00:00:00.000Z",
+    "inTime": "070632",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-25T00:00:00.000Z",
+    "inTime": "070431",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-29T00:00:00.000Z",
+    "inTime": "073346",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-30T00:00:00.000Z",
+    "inTime": "075910",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "1차지각",
+    "bigo": "",
+    "state": "A1",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-10-31T00:00:00.000Z",
+    "inTime": "063454",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-01T00:00:00.000Z",
+    "inTime": "070742",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-02T00:00:00.000Z",
+    "inTime": "070531",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-05T00:00:00.000Z",
+    "inTime": "074201",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-06T00:00:00.000Z",
+    "inTime": "070134",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-07T00:00:00.000Z",
+    "inTime": "070735",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-08T00:00:00.000Z",
+    "inTime": "070704",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-09T00:00:00.000Z",
+    "inTime": "064515",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-12T00:00:00.000Z",
+    "inTime": "073354",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-13T00:00:00.000Z",
+    "inTime": "064140",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-14T00:00:00.000Z",
+    "inTime": "065455",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-16T00:00:00.000Z",
+    "inTime": "072800",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-19T00:00:00.000Z",
+    "inTime": "074318",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-20T00:00:00.000Z",
+    "inTime": "065051",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-21T00:00:00.000Z",
+    "inTime": "070057",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-22T00:00:00.000Z",
+    "inTime": "070748",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-23T00:00:00.000Z",
+    "inTime": "065414",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-24T00:00:00.000Z",
+    "inTime": "080103",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "휴일등교",
+    "bigo": "",
+    "state": "Y1",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-26T00:00:00.000Z",
+    "inTime": "073554",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-27T00:00:00.000Z",
+    "inTime": "070746",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-28T00:00:00.000Z",
+    "inTime": "070754",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-29T00:00:00.000Z",
+    "inTime": "070534",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-11-30T00:00:00.000Z",
+    "inTime": "070943",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-03T00:00:00.000Z",
+    "inTime": "073951",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-04T00:00:00.000Z",
+    "inTime": "070649",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-05T00:00:00.000Z",
+    "inTime": "070859",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-06T00:00:00.000Z",
+    "inTime": "070835",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-07T00:00:00.000Z",
+    "inTime": "070736",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-10T00:00:00.000Z",
+    "inTime": "074118",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-11T00:00:00.000Z",
+    "inTime": "070402",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-12T00:00:00.000Z",
+    "inTime": "070353",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-13T00:00:00.000Z",
+    "inTime": "070442",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-14T00:00:00.000Z",
+    "inTime": "065414",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-17T00:00:00.000Z",
+    "inTime": "073138",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-18T00:00:00.000Z",
+    "inTime": "065253",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-19T00:00:00.000Z",
+    "inTime": "070613",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-20T00:00:00.000Z",
+    "inTime": "071045",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-21T00:00:00.000Z",
+    "inTime": "070930",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-24T00:00:00.000Z",
+    "inTime": "074148",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-26T00:00:00.000Z",
+    "inTime": "074511",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-27T00:00:00.000Z",
+    "inTime": "070142",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2018-12-28T00:00:00.000Z",
+    "inTime": "070214",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-01-02T00:00:00.000Z",
+    "inTime": "074340",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "휴일등교",
+    "bigo": "",
+    "state": "Y1",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-01-03T00:00:00.000Z",
+    "inTime": "070239",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "휴일등교",
+    "bigo": "",
+    "state": "Y1",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-01-07T00:00:00.000Z",
+    "inTime": "124340",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "휴일등교",
+    "bigo": "",
+    "state": "Y1",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-02-01T00:00:00.000Z",
+    "inTime": "074736",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-02-07T00:00:00.000Z",
+    "inTime": "074254",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-02-08T00:00:00.000Z",
+    "inTime": "071259",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-02-11T00:00:00.000Z",
+    "inTime": "073326",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-02-12T00:00:00.000Z",
+    "inTime": "072918",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-02-13T00:00:00.000Z",
+    "inTime": "074830",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-02-18T00:00:00.000Z",
+    "inTime": "172131",
+    "st_id": "C067000503",
+    "class": "1",
+    "gubun": "휴일등교",
+    "bigo": "",
+    "state": "Y1",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-04T00:00:00.000Z",
+    "inTime": "999999",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "공결",
+    "bigo": "",
+    "state": "Y2",
+    "STD_NAME": null
+}, {
+    "inDate": "2019-03-05T00:00:00.000Z",
+    "inTime": "999999",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "공결",
+    "bigo": "",
+    "state": "Y2",
+    "STD_NAME": null
+}, {
+    "inDate": "2019-03-06T00:00:00.000Z",
+    "inTime": "999999",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "공결",
+    "bigo": "",
+    "state": "Y2",
+    "STD_NAME": null
+}, {
+    "inDate": "2019-03-07T00:00:00.000Z",
+    "inTime": "999999",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "공결",
+    "bigo": "",
+    "state": "Y2",
+    "STD_NAME": null
+}, {
+    "inDate": "2019-03-08T00:00:00.000Z",
+    "inTime": "999999",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "공결",
+    "bigo": "",
+    "state": "Y2",
+    "STD_NAME": null
+}, {
+    "inDate": "2019-03-11T00:00:00.000Z",
+    "inTime": "074449",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-12T00:00:00.000Z",
+    "inTime": "070439",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-13T00:00:00.000Z",
+    "inTime": "070045",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-14T00:00:00.000Z",
+    "inTime": "063240",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-15T00:00:00.000Z",
+    "inTime": "070156",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-18T00:00:00.000Z",
+    "inTime": "074410",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-19T00:00:00.000Z",
+    "inTime": "070404",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-20T00:00:00.000Z",
+    "inTime": "070605",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-21T00:00:00.000Z",
+    "inTime": "070137",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-22T00:00:00.000Z",
+    "inTime": "070334",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-25T00:00:00.000Z",
+    "inTime": "074704",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-26T00:00:00.000Z",
+    "inTime": "070210",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-27T00:00:00.000Z",
+    "inTime": "065330",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-28T00:00:00.000Z",
+    "inTime": "070334",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-03-29T00:00:00.000Z",
+    "inTime": "070325",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-01T00:00:00.000Z",
+    "inTime": "074702",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-02T00:00:00.000Z",
+    "inTime": "070208",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-03T00:00:00.000Z",
+    "inTime": "065751",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-04T00:00:00.000Z",
+    "inTime": "065123",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-05T00:00:00.000Z",
+    "inTime": "070443",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-08T00:00:00.000Z",
+    "inTime": "073816",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-09T00:00:00.000Z",
+    "inTime": "070124",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-10T00:00:00.000Z",
+    "inTime": "065103",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-11T00:00:00.000Z",
+    "inTime": "070501",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-12T00:00:00.000Z",
+    "inTime": "065415",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-15T00:00:00.000Z",
+    "inTime": "074902",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-16T00:00:00.000Z",
+    "inTime": "070052",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-17T00:00:00.000Z",
+    "inTime": "070526",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-18T00:00:00.000Z",
+    "inTime": "064553",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-19T00:00:00.000Z",
+    "inTime": "070217",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-22T00:00:00.000Z",
+    "inTime": "074939",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-23T00:00:00.000Z",
+    "inTime": "070226",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-24T00:00:00.000Z",
+    "inTime": "064831",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-25T00:00:00.000Z",
+    "inTime": "065557",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-26T00:00:00.000Z",
+    "inTime": "065418",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-29T00:00:00.000Z",
+    "inTime": "074223",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-04-30T00:00:00.000Z",
+    "inTime": "065424",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-01T00:00:00.000Z",
+    "inTime": "070513",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-02T00:00:00.000Z",
+    "inTime": "064850",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-03T00:00:00.000Z",
+    "inTime": "065504",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-07T00:00:00.000Z",
+    "inTime": "074130",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-08T00:00:00.000Z",
+    "inTime": "070425",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-09T00:00:00.000Z",
+    "inTime": "065400",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-10T00:00:00.000Z",
+    "inTime": "065733",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-13T00:00:00.000Z",
+    "inTime": "074050",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-14T00:00:00.000Z",
+    "inTime": "070031",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-15T00:00:00.000Z",
+    "inTime": "070432",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-16T00:00:00.000Z",
+    "inTime": "070112",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-17T00:00:00.000Z",
+    "inTime": "070301",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-20T00:00:00.000Z",
+    "inTime": "074523",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-21T00:00:00.000Z",
+    "inTime": "070633",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-22T00:00:00.000Z",
+    "inTime": "071858",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-23T00:00:00.000Z",
+    "inTime": "070127",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-24T00:00:00.000Z",
+    "inTime": "072329",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-27T00:00:00.000Z",
+    "inTime": "074735",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-28T00:00:00.000Z",
+    "inTime": "070020",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-29T00:00:00.000Z",
+    "inTime": "070433",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-30T00:00:00.000Z",
+    "inTime": "065425",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-05-31T00:00:00.000Z",
+    "inTime": "065907",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-06-03T00:00:00.000Z",
+    "inTime": "073940",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-06-04T00:00:00.000Z",
+    "inTime": "065700",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-06-05T00:00:00.000Z",
+    "inTime": "070321",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-06-10T00:00:00.000Z",
+    "inTime": "073331",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-06-11T00:00:00.000Z",
+    "inTime": "071902",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-06-17T00:00:00.000Z",
+    "inTime": "073050",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-06-18T00:00:00.000Z",
+    "inTime": "065750",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-06-19T00:00:00.000Z",
+    "inTime": "072437",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-06-20T00:00:00.000Z",
+    "inTime": "070204",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-06-21T00:00:00.000Z",
+    "inTime": "070153",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-06-25T00:00:00.000Z",
+    "inTime": "071929",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-06-26T00:00:00.000Z",
+    "inTime": "070201",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-06-27T00:00:00.000Z",
+    "inTime": "070159",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-06-28T00:00:00.000Z",
+    "inTime": "070314",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-01T00:00:00.000Z",
+    "inTime": "073732",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-02T00:00:00.000Z",
+    "inTime": "070024",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-03T00:00:00.000Z",
+    "inTime": "070453",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-04T00:00:00.000Z",
+    "inTime": "074610",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-05T00:00:00.000Z",
+    "inTime": "065028",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-08T00:00:00.000Z",
+    "inTime": "072044",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-09T00:00:00.000Z",
+    "inTime": "065233",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-10T00:00:00.000Z",
+    "inTime": "070540",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-11T00:00:00.000Z",
+    "inTime": "070835",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-12T00:00:00.000Z",
+    "inTime": "070253",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-15T00:00:00.000Z",
+    "inTime": "071936",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-16T00:00:00.000Z",
+    "inTime": "065409",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-17T00:00:00.000Z",
+    "inTime": "070112",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-18T00:00:00.000Z",
+    "inTime": "070112",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-19T00:00:00.000Z",
+    "inTime": "070630",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "휴일등교",
+    "bigo": "",
+    "state": "Y1",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-22T00:00:00.000Z",
+    "inTime": "124855",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "휴일등교",
+    "bigo": "",
+    "state": "Y1",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-07-30T00:00:00.000Z",
+    "inTime": "124408",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "휴일등교",
+    "bigo": "",
+    "state": "Y1",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-08-19T00:00:00.000Z",
+    "inTime": "073253",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-08-20T00:00:00.000Z",
+    "inTime": "070029",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-08-21T00:00:00.000Z",
+    "inTime": "070026",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-08-22T00:00:00.000Z",
+    "inTime": "065458",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-08-23T00:00:00.000Z",
+    "inTime": "065950",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-08-26T00:00:00.000Z",
+    "inTime": "074426",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-08-27T00:00:00.000Z",
+    "inTime": "065341",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-08-28T00:00:00.000Z",
+    "inTime": "065713",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-08-29T00:00:00.000Z",
+    "inTime": "070416",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-08-30T00:00:00.000Z",
+    "inTime": "070134",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-02T00:00:00.000Z",
+    "inTime": "073747",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-03T00:00:00.000Z",
+    "inTime": "065132",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-04T00:00:00.000Z",
+    "inTime": "065229",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-05T00:00:00.000Z",
+    "inTime": "070226",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-06T00:00:00.000Z",
+    "inTime": "070821",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-09T00:00:00.000Z",
+    "inTime": "071720",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-10T00:00:00.000Z",
+    "inTime": "064927",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-11T00:00:00.000Z",
+    "inTime": "065828",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-16T00:00:00.000Z",
+    "inTime": "071621",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-17T00:00:00.000Z",
+    "inTime": "065857",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-18T00:00:00.000Z",
+    "inTime": "065908",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-19T00:00:00.000Z",
+    "inTime": "070034",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-20T00:00:00.000Z",
+    "inTime": "065924",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-23T00:00:00.000Z",
+    "inTime": "074341",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-24T00:00:00.000Z",
+    "inTime": "070139",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-09-25T00:00:00.000Z",
+    "inTime": "070055",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-01T00:00:00.000Z",
+    "inTime": "070643",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-02T00:00:00.000Z",
+    "inTime": "070629",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-07T00:00:00.000Z",
+    "inTime": "073127",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-08T00:00:00.000Z",
+    "inTime": "064859",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-10T00:00:00.000Z",
+    "inTime": "072751",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-11T00:00:00.000Z",
+    "inTime": "070238",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-14T00:00:00.000Z",
+    "inTime": "073125",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-15T00:00:00.000Z",
+    "inTime": "070023",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-16T00:00:00.000Z",
+    "inTime": "064503",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-17T00:00:00.000Z",
+    "inTime": "064628",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-18T00:00:00.000Z",
+    "inTime": "065654",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-21T00:00:00.000Z",
+    "inTime": "073728",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-22T00:00:00.000Z",
+    "inTime": "070204",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-23T00:00:00.000Z",
+    "inTime": "064856",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-24T00:00:00.000Z",
+    "inTime": "064930",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-28T00:00:00.000Z",
+    "inTime": "074657",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-29T00:00:00.000Z",
+    "inTime": "070326",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-30T00:00:00.000Z",
+    "inTime": "070045",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-10-31T00:00:00.000Z",
+    "inTime": "064440",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-01T00:00:00.000Z",
+    "inTime": "070827",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-02T00:00:00.000Z",
+    "inTime": "072030",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-03T00:00:00.000Z",
+    "inTime": "074030",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-04T00:00:00.000Z",
+    "inTime": "074331",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-05T00:00:00.000Z",
+    "inTime": "070216",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-06T00:00:00.000Z",
+    "inTime": "070438",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-07T00:00:00.000Z",
+    "inTime": "065623",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-08T00:00:00.000Z",
+    "inTime": "065834",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-11T00:00:00.000Z",
+    "inTime": "072731",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-12T00:00:00.000Z",
+    "inTime": "064953",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-13T00:00:00.000Z",
+    "inTime": "065648",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-15T00:00:00.000Z",
+    "inTime": "064133",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-17T00:00:00.000Z",
+    "inTime": "073530",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-18T00:00:00.000Z",
+    "inTime": "074645",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-19T00:00:00.000Z",
+    "inTime": "065856",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-20T00:00:00.000Z",
+    "inTime": "070039",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-21T00:00:00.000Z",
+    "inTime": "070406",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-22T00:00:00.000Z",
+    "inTime": "070028",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-25T00:00:00.000Z",
+    "inTime": "074625",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-26T00:00:00.000Z",
+    "inTime": "070102",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-27T00:00:00.000Z",
+    "inTime": "070149",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-28T00:00:00.000Z",
+    "inTime": "065543",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-11-29T00:00:00.000Z",
+    "inTime": "073321",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-01T00:00:00.000Z",
+    "inTime": "071530",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-02T00:00:00.000Z",
+    "inTime": "074700",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-03T00:00:00.000Z",
+    "inTime": "074919",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-04T00:00:00.000Z",
+    "inTime": "073647",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-05T00:00:00.000Z",
+    "inTime": "074958",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-06T00:00:00.000Z",
+    "inTime": "075010",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-08T00:00:00.000Z",
+    "inTime": "072030",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-09T00:00:00.000Z",
+    "inTime": "074639",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-10T00:00:00.000Z",
+    "inTime": "064647",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-11T00:00:00.000Z",
+    "inTime": "064726",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-12T00:00:00.000Z",
+    "inTime": "064533",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-13T00:00:00.000Z",
+    "inTime": "065343",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-14T00:00:00.000Z",
+    "inTime": "071030",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-16T00:00:00.000Z",
+    "inTime": "074017",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-17T00:00:00.000Z",
+    "inTime": "070400",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-18T00:00:00.000Z",
+    "inTime": "070259",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-19T00:00:00.000Z",
+    "inTime": "070418",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-20T00:00:00.000Z",
+    "inTime": "064431",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-22T00:00:00.000Z",
+    "inTime": "072530",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-23T00:00:00.000Z",
+    "inTime": "070635",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-24T00:00:00.000Z",
+    "inTime": "070621",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-26T00:00:00.000Z",
+    "inTime": "072625",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2019-12-27T00:00:00.000Z",
+    "inTime": "070248",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "휴일등교",
+    "bigo": "",
+    "state": "Y1",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-01-01T00:00:00.000Z",
+    "inTime": "072530",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-01-13T00:00:00.000Z",
+    "inTime": "074030",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-01-14T00:00:00.000Z",
+    "inTime": "072530",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-01-15T00:00:00.000Z",
+    "inTime": "104359",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "휴일등교",
+    "bigo": "",
+    "state": "Y1",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-01-16T00:00:00.000Z",
+    "inTime": "074830",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-01-18T00:00:00.000Z",
+    "inTime": "072530",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-01-20T00:00:00.000Z",
+    "inTime": "074930",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-02-03T00:00:00.000Z",
+    "inTime": "074530",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-02-04T00:00:00.000Z",
+    "inTime": "070530",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-02-05T00:00:00.000Z",
+    "inTime": "070530",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-02-06T00:00:00.000Z",
+    "inTime": "074236",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-02-07T00:00:00.000Z",
+    "inTime": "070834",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-02-10T00:00:00.000Z",
+    "inTime": "073030",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-02-11T00:00:00.000Z",
+    "inTime": "074830",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-02-12T00:00:00.000Z",
+    "inTime": "074030",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-02-17T00:00:00.000Z",
+    "inTime": "074030",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-02-18T00:00:00.000Z",
+    "inTime": "074530",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-02-19T00:00:00.000Z",
+    "inTime": "074930",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-02-20T00:00:00.000Z",
+    "inTime": "074830",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-02-21T00:00:00.000Z",
+    "inTime": "074530",
+    "st_id": "C067000503",
+    "class": "2",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-04-16T00:00:00.000Z",
+    "inTime": "170339",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-04-19T00:00:00.000Z",
+    "inTime": "210907",
+    "st_id": "C067000503",
+    "class": "0",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-04-21T00:00:00.000Z",
+    "inTime": "103827",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-04-23T00:00:00.000Z",
+    "inTime": "154836",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-05-19T00:00:00.000Z",
+    "inTime": "073030",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-05-20T00:00:00.000Z",
+    "inTime": "074830",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-05-21T00:00:00.000Z",
+    "inTime": "074830",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-05-22T00:00:00.000Z",
+    "inTime": "074930",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-05-25T00:00:00.000Z",
+    "inTime": "071130",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-05-26T00:00:00.000Z",
+    "inTime": "074930",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-05-27T00:00:00.000Z",
+    "inTime": "072630",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-05-28T00:00:00.000Z",
+    "inTime": "081505",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-05-29T00:00:00.000Z",
+    "inTime": "082746",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-01T00:00:00.000Z",
+    "inTime": "081648",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-02T00:00:00.000Z",
+    "inTime": "080332",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-03T00:00:00.000Z",
+    "inTime": "074756",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-04T00:00:00.000Z",
+    "inTime": "070137",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-05T00:00:00.000Z",
+    "inTime": "071023",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-08T00:00:00.000Z",
+    "inTime": "074823",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-09T00:00:00.000Z",
+    "inTime": "071253",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-10T00:00:00.000Z",
+    "inTime": "070342",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-11T00:00:00.000Z",
+    "inTime": "070000",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-12T00:00:00.000Z",
+    "inTime": "065203",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-15T00:00:00.000Z",
+    "inTime": "074849",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-17T00:00:00.000Z",
+    "inTime": "070251",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-19T00:00:00.000Z",
+    "inTime": "070104",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-23T00:00:00.000Z",
+    "inTime": "074653",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-24T00:00:00.000Z",
+    "inTime": "070204",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-25T00:00:00.000Z",
+    "inTime": "070206",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-26T00:00:00.000Z",
+    "inTime": "065826",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-29T00:00:00.000Z",
+    "inTime": "070602",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-06-30T00:00:00.000Z",
+    "inTime": "065252",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-01T00:00:00.000Z",
+    "inTime": "070140",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-02T00:00:00.000Z",
+    "inTime": "070532",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-03T00:00:00.000Z",
+    "inTime": "072832",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-06T00:00:00.000Z",
+    "inTime": "072546",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-07T00:00:00.000Z",
+    "inTime": "065405",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-08T00:00:00.000Z",
+    "inTime": "070844",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-09T00:00:00.000Z",
+    "inTime": "070436",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-10T00:00:00.000Z",
+    "inTime": "071750",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-13T00:00:00.000Z",
+    "inTime": "071535",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-14T00:00:00.000Z",
+    "inTime": "065535",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-15T00:00:00.000Z",
+    "inTime": "065729",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-16T00:00:00.000Z",
+    "inTime": "070434",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-17T00:00:00.000Z",
+    "inTime": "071146",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-20T00:00:00.000Z",
+    "inTime": "070403",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-21T00:00:00.000Z",
+    "inTime": "071940",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-22T00:00:00.000Z",
+    "inTime": "065055",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-23T00:00:00.000Z",
+    "inTime": "070450",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-24T00:00:00.000Z",
+    "inTime": "071545",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-25T00:00:00.000Z",
+    "inTime": "072704",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-27T00:00:00.000Z",
+    "inTime": "074238",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-28T00:00:00.000Z",
+    "inTime": "065414",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-29T00:00:00.000Z",
+    "inTime": "070029",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-30T00:00:00.000Z",
+    "inTime": "065653",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-07-31T00:00:00.000Z",
+    "inTime": "065920",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-08-03T00:00:00.000Z",
+    "inTime": "074113",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-08-04T00:00:00.000Z",
+    "inTime": "070526",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-08-05T00:00:00.000Z",
+    "inTime": "065624",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-08-06T00:00:00.000Z",
+    "inTime": "065729",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-08-07T00:00:00.000Z",
+    "inTime": "065925",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-08-10T00:00:00.000Z",
+    "inTime": "074332",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-08-11T00:00:00.000Z",
+    "inTime": "065551",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-08-12T00:00:00.000Z",
+    "inTime": "070408",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-08-13T00:00:00.000Z",
+    "inTime": "065905",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-08-31T00:00:00.000Z",
+    "inTime": "072950",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-01T00:00:00.000Z",
+    "inTime": "065757",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-02T00:00:00.000Z",
+    "inTime": "065229",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-03T00:00:00.000Z",
+    "inTime": "065137",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-04T00:00:00.000Z",
+    "inTime": "064732",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-11T00:00:00.000Z",
+    "inTime": "065220",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-13T00:00:00.000Z",
+    "inTime": "073322",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-14T00:00:00.000Z",
+    "inTime": "073104",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-15T00:00:00.000Z",
+    "inTime": "071102",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-16T00:00:00.000Z",
+    "inTime": "065606",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-17T00:00:00.000Z",
+    "inTime": "065203",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-18T00:00:00.000Z",
+    "inTime": "065523",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-21T00:00:00.000Z",
+    "inTime": "074802",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-22T00:00:00.000Z",
+    "inTime": "065740",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-23T00:00:00.000Z",
+    "inTime": "065236",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-24T00:00:00.000Z",
+    "inTime": "065236",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-09-25T00:00:00.000Z",
+    "inTime": "065517",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-10-05T00:00:00.000Z",
+    "inTime": "072302",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-10-06T00:00:00.000Z",
+    "inTime": "065636",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-10-07T00:00:00.000Z",
+    "inTime": "065125",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-10-08T00:00:00.000Z",
+    "inTime": "065422",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-10-12T00:00:00.000Z",
+    "inTime": "072316",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-10-13T00:00:00.000Z",
+    "inTime": "065649",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-10-14T00:00:00.000Z",
+    "inTime": "070309",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-10-15T00:00:00.000Z",
+    "inTime": "073227",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}, {
+    "inDate": "2020-10-16T00:00:00.000Z",
+    "inTime": "065426",
+    "st_id": "C067000503",
+    "class": "3",
+    "gubun": "",
+    "bigo": "",
+    "state": "Y",
+    "STD_NAME": "체크기1"
+}]

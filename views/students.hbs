@@ -1,0 +1,67 @@
+<style>
+    .tg {
+        border-collapse: collapse;
+        border-spacing: 0;
+        width: 100%;
+    }
+
+    .tg td {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+
+    .tg th {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+
+    .tg .tg-0lax {
+        text-align: left;
+        vertical-align: top
+    }
+</style>
+{{#if students}}
+    <h1>
+        Students ( {{query.grade}}-{{query.ban}} ) :
+    </h1>
+    <table class="tg">
+        <thead>
+        <tr>
+            <th class="tg-0lax">이름</th>
+            <th class="tg-0lax">번호</th>
+            <th class="tg-0lax">계정부호</th>
+            <th class="tg-0lax">비고</th>
+        </tr>
+        </thead>
+        <tbody>
+        {{#students}}
+            <tr>
+                <td class="tg-0lax">{{name}}</td>
+                <td class="tg-0lax">{{num}}</td>
+                <td class="tg-0lax">{{st_id}}</td>
+                <td class="tg-0lax">{{st_memo}}</td>
+            </tr>
+        {{/students}}
+        </tbody>
+    </table>
+{{/if}}
+{{#if error}}
+    <h1>Error occurred.</h1>
+    <p>
+        {{error}}
+    </p>
+{{/if}}
+</body>

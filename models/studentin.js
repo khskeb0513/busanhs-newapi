@@ -3,7 +3,7 @@
 module.exports = function(sequelize, DataTypes) {
 	return sequelize.define('studentin', {
 		inDate: {
-			type: DataTypes.DATE,
+			type: DataTypes.STRING,
 			allowNull: false,
 			primaryKey: true
 		},

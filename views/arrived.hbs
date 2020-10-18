@@ -1,0 +1,98 @@
+<style>
+    .tg {
+        border-collapse: collapse;
+        border-spacing: 0;
+        width: 100%;
+    }
+
+    .tg td {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+
+    .tg th {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+
+    .tg .tg-0lax {
+        text-align: left;
+        vertical-align: top
+    }
+</style>
+{{#if studentins}}
+    <h1>
+        Checked Data ( {{query.grade}}-{{query.ban}} ) :
+        <br>
+        {{date}}
+    </h1>
+    <form action="/query/arrived/add" method="post">
+        <table class="tg">
+            <thead>
+            <tr>
+                <th class="tg-0lax">이름</th>
+                <th class="tg-0lax">번호</th>
+                <th class="tg-0lax">계정부호</th>
+                <th class="tg-0lax">구분</th>
+                <th class="tg-0lax">비고</th>
+                <th class="tg-0lax">➡️ Do.</th>
+                <th class="tg-0lax">
+                    <input type="submit" value="✈️ FLY.">
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+            {{#studentins}}
+                <tr>
+                    <td class="tg-0lax">{{name}}</td>
+                    <td class="tg-0lax">{{num}}</td>
+                    <td class="tg-0lax">{{st_id}}</td>
+                    <td class="tg-0lax">{{studentin.gubun}}</td>
+                    <td class="tg-0lax">{{studentin.bigo}}</td>
+                    {{#if studentin.inTime}}
+                        <td class="tg-0lax">{{studentin.inTime}}</td>
+                        <td class="tg-0lax">
+                            <a onclick="revoke('{{st_id}}')">🚮 REVOKE.</a>
+                        </td>
+                    {{/if}}
+                    {{#unless studentin.inTime}}
+                        <td class="tg-0lax"><a href="http://attend.busanhs.xyz/attendedcheck?code={{st_id}}">➡️ </a>
+                        </td>
+                        <td class="tg-0lax">
+                            <label><input type="checkbox" name="student_id" value="{{st_id}}" checked> I'M
+                                PASSENGER.</label>
+                        </td>
+                    {{/unless}}
+                </tr>
+            {{/studentins}}
+            </tbody>
+        </table>
+        <input name="class" value="{{query.grade}}" hidden>
+        <input name="ban" value="{{query.ban}}" hidden>
+        <input name="date" value="{{query.date}}" hidden>
+    </form>
+{{/if}}
+{{#if error}}
+    <h1>Error occurred.</h1>
+    <p>
+        {{error}}
+    </p>
+{{/if}}
+<script>
+    const revoke = (student_id) => {
+        window.location.href = `/query/arrived/delete?student_id=${student_id}&date={{date}}&class={{query.grade}}&ban={{query.ban}}`
+    }
+</script>
