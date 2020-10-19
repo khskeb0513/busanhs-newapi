@@ -192,7 +192,7 @@ router.post('/arrived/add', (req, res, next) => {
     make_arrived().then(async r => {
         await console.log(r)
         // await res.json(r)
-        res.redirect(`/query/arrived?grade=${body.class}&ban=${body.ban}`)
+        res.redirect(`/query/arrived?grade=${body.class}&ban=${body.ban}&date=${body.date}`)
     })
 })
 
@@ -210,7 +210,7 @@ router.get('/arrived/delete', (req, res, next) => {
                 st_id: query.st_id
             }
     }).then(() => {
-        res.redirect(`/query/arrived?grade=${query.grade}&ban=${query.ban}`)
+        res.redirect(`/query/arrived?grade=${query.grade}&ban=${query.ban}&date=${query.date}`)
     })
 })
 

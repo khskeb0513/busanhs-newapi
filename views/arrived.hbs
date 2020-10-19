@@ -36,9 +36,13 @@
 {{#if studentins}}
     <h1>
         Checked Data ( {{query.grade}}-{{query.ban}} ) :
-        <br>
-        {{date}}
     </h1>
+    <span>NOW DATE: {{date}}</span><br><br>
+    <label for="date"></label><input type="date" id="date" name="date"
+                                     value="{{date}}">
+    <button onclick="change_date()">CHANGE</button>
+    <button onclick="change_date_today()">TODAY</button>
+    <br><br>
     <form action="/query/arrived/add" method="post">
         <table class="tg">
             <thead>
@@ -79,6 +83,12 @@
                     {{/unless}}
                 </tr>
             {{/studentins}}
+            <tr>
+                <td colspan="7">
+                    <a onclick="check_all()">☑ CHECK ALL</a>
+                    <a onclick="uncheck_all()">☐ UNCHECK ALL</a>
+                </td>
+            </tr>
             </tbody>
         </table>
         <input name="class" value="{{query.grade}}" hidden>
@@ -93,6 +103,25 @@
     </p>
 {{/if}}
 <script>
+    const uncheck_all = () => {
+        const checkbox_array = document.getElementsByName('student_id')
+        checkbox_array.forEach(each_data => {
+            each_data.checked = false
+        })
+    }
+    const check_all = () => {
+        const checkbox_array = document.getElementsByName('student_id')
+        checkbox_array.forEach(each_data => {
+            each_data.checked = true
+        })
+    }
+    const change_date = () => {
+        const date = document.getElementById('date').value
+        window.location.href = `/query/arrived?date=${date}&grade={{query.grade}}&ban={{query.ban}}`
+    }
+    const change_date_today = () => {
+        window.location.href = `/query/arrived?grade={{query.grade}}&ban={{query.ban}}`
+    }
     const revoke = (student_id) => {
         window.location.href = `/query/arrived/delete?student_id=${student_id}&date={{date}}&class={{query.grade}}&ban={{query.ban}}`
     }
