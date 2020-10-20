@@ -1,0 +1,99 @@
+<style>
+    code {
+        font-family: Consolas, "Lucida Console", monospace;
+    }
+
+    .tg {
+        border-collapse: collapse;
+        border-spacing: 0;
+        width: 100%;
+    }
+
+    .tg td {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+
+    .tg th {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+
+    .tg .tg-0lax {
+        text-align: left;
+        vertical-align: top
+    }
+</style>
+{{#if points}}
+    <h1>
+        PRS
+    </h1>
+    <ul>
+        <li>
+            계정부호: {{query.st_id}}
+        </li>
+        <li>
+            이름: {{student.name}}
+        </li>
+        <li>
+            학번: {{student.class}}-{{student.ban}}-{{student.num}}
+        </li>
+    </ul>
+    <table class="tg">
+        <thead>
+        <tr>
+            <th class="tg-0lax">일련번호</th>
+            <th class="tg-0lax">부여일자/작업일자</th>
+            <th class="tg-0lax">부여일시</th>
+            <th class="tg-0lax">구분</th>
+            <th class="tg-0lax">항목</th>
+            <th class="tg-0lax">설명/비고</th>
+            <th class="tg-0lax">상벌점</th>
+            <th class="tg-0lax">교사</th>
+            <th class="tg-0lax">학년</th>
+            <th class="tg-0lax">MANAGE</th>
+        </tr>
+        </thead>
+        <tbody>
+        {{#points}}
+            <tr>
+                <th class="tg-0lax">{{key_num}}</th>
+                <th class="tg-0lax">{{m_date}}<br>{{work_date}}</th>
+                <th class="tg-0lax">{{m_time}}</th>
+                <th class="tg-0lax">{{merit_sel}}</th>
+                <th class="tg-0lax">{{merit_code}}</th>
+                <th class="tg-0lax">{{merit_text}}<br>{{bigo}}</th>
+                <th class="tg-0lax">{{merit_point}}</th>
+                <th class="tg-0lax">{{t_id}} {{t_name}}</th>
+                <th class="tg-0lax">{{class}}</th>
+                <th class="tg-0lax"><a onclick="revoke_point({{key_num}})">🚮 REVOKE</a></th>
+            </tr>
+        {{/points}}
+        </tbody>
+    </table>
+    <small>*PRS: Point Revoke Service</small>
+{{/if}}
+{{#if error}}
+    <h1>Error occurred.</h1>
+    <p>
+        {{error}}
+    </p>
+{{/if}}
+<script>
+    const revoke_point = (key_num) => {
+        window.location.href = `/query/students/points/delete?student_id={{query.st_id}}&key_num=${key_num}`
+    }
+</script>

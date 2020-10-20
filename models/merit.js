@@ -9,7 +9,7 @@ module.exports = function(sequelize, DataTypes) {
 			primaryKey: true
 		},
 		m_date: {
-			type: DataTypes.DATE,
+			type: DataTypes.STRING,
 			allowNull: false
 		},
 		m_time: {
@@ -45,7 +45,7 @@ module.exports = function(sequelize, DataTypes) {
 			allowNull: true
 		},
 		work_date: {
-			type: DataTypes.DATE,
+			type: DataTypes.STRING,
 			allowNull: true
 		},
 		class: {

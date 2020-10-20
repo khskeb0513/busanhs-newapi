@@ -44,6 +44,7 @@
             <th class="tg-0lax">번호</th>
             <th class="tg-0lax">계정부호</th>
             <th class="tg-0lax">비고</th>
+            <th class="tg-0lax">Individual PRS</th>
         </tr>
         </thead>
         <tbody>
@@ -53,10 +54,12 @@
                 <td class="tg-0lax">{{num}}</td>
                 <td class="tg-0lax">{{st_id}}</td>
                 <td class="tg-0lax">{{st_memo}}</td>
+                <td class="tg-0lax"><a onclick="run_pes('{{st_id}}')">📚 PRS</a></td>
             </tr>
         {{/students}}
         </tbody>
     </table>
+    <small>*PRS: Point Revoke Service</small>
 {{/if}}
 {{#if error}}
     <h1>Error occurred.</h1>
@@ -64,4 +67,8 @@
         {{error}}
     </p>
 {{/if}}
-</body>
+<script>
+    const run_pes = (student_id) => {
+        window.location.href = `/query/students/points?student_id=${student_id}`
+    }
+</script>
