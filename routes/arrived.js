@@ -68,10 +68,11 @@ router.get('/', (req, res, next) => {
                 await res.render('arrived', {
                     studentins: result_array,
                     query: query,
-                    date: query.date
+                    date: query.date,
+                    title: `ARMS ( ${query.grade}-${query.ban} )`
                 })
-            })
-        })
+            }, e => next(e))
+        }, e => next(e))
     }
 })
 
@@ -116,15 +117,11 @@ router.post('/add', (req, res, next) => {
             studentin.create(each_data).then(
                 () => {
                 },
-                (e) => {
-                    console.error(e)
-                }
+                (e) => next(e)
             )
         })
     }
-    make_arrived().then(async r => {
-        await console.log(r)
-        // await res.json(r)
+    make_arrived().then(() => {
         res.redirect(`/query/arrived?grade=${body.class}&ban=${body.ban}&date=${body.date}`)
     })
 })
@@ -144,7 +141,7 @@ router.get('/delete', (req, res, next) => {
             }
     }).then(() => {
         res.redirect(`/query/arrived?grade=${query.grade}&ban=${query.ban}&date=${query.date}`)
-    })
+    }, e => next(e))
 })
 
 module.exports = router;

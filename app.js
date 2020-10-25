@@ -3,6 +3,7 @@ const express = require('express');
 const path = require('path');
 const cookieParser = require('cookie-parser');
 const logger = require('morgan');
+const helmet = require('helmet')
 
 const app = express();
 
@@ -12,33 +13,42 @@ app.set('view engine', 'hbs');
 
 app.use(logger('dev'));
 app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
+app.use(express.urlencoded({extended: false}));
 app.use(cookieParser());
+app.use(helmet.hidePoweredBy())
+app.use(helmet.noSniff())
+app.use(helmet.frameguard())
+app.use(helmet.xssFilter())
+// app.use(helmet.contentSecurityPolicy())
+app.use(helmet.permittedCrossDomainPolicies())
+app.use(helmet.ieNoOpen())
 app.use(express.static(path.join(__dirname, 'public')));
 
 const indexRouter = require('./routes/index');
 const queryRouter = require('./routes/query');
 const studentsRouter = require('./routes/students');
 const arrivedRouter = require('./routes/arrived');
+const pointsRouter = require('./routes/points');
 app.use('/', indexRouter);
 app.use('/query', queryRouter);
 app.use('/query/students', studentsRouter);
 app.use('/query/arrived', arrivedRouter);
+app.use('/query/students/points', pointsRouter);
 
 // catch 404 and forward to error handler
-app.use(function(req, res, next) {
-  next(createError(404));
+app.use(function (req, res, next) {
+    next(createError(404));
 });
 
 // error handler
-app.use(function(err, req, res, next) {
-  // set locals, only providing error in development
-  res.locals.message = err.message;
-  res.locals.error = req.app.get('env') === 'development' ? err : {};
+app.use(function (err, req, res, next) {
+    // set locals, only providing error in development
+    res.locals.message = err.message;
+    res.locals.error = req.app.get('env') === 'development' ? err : {};
 
-  // render the error page
-  res.status(err.status || 500);
-  res.render('error');
+    // render the error page
+    res.status(err.status || 500);
+    res.render('error');
 });
 
 module.exports = app;

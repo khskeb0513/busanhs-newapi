@@ -12,15 +12,18 @@ router.get('/', (req, res, next) => {
         }
     }).then(async students => {
         const result_object = {
-            '1': {
+            1: {
+                name: 'Sophomore',
                 grade: 1,
                 bans: []
             },
-            '2': {
+            2: {
+                name: 'Junior',
                 grade: 2,
                 bans: []
             },
-            '3': {
+            3: {
+                name: 'Senior',
                 grade: 3,
                 bans: []
             }
@@ -37,9 +40,10 @@ router.get('/', (req, res, next) => {
             return each_data
         }))
         await res.render('query', {
-            result: result_array
+            result: result_array,
+            title: 'Select service you want'
         })
-    })
+    }, e => next(e))
 })
 
 module.exports = router;

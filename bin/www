@@ -65,13 +65,11 @@ function onError(error) {
   // handle specific listen errors with friendly messages
   switch (error.code) {
     case 'EACCES':
-      console.error(bind + ' requires elevated privileges');
-      console.error(error);
+      console.error(bind + ' requires elevated privileges or http module cannot detect network interface automatically');
       process.exit(1);
       break;
     case 'EADDRINUSE':
       console.error(bind + ' is already in use');
-      console.error(error);
       process.exit(1);
       break;
     default:

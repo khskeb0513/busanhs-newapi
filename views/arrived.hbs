@@ -1,42 +1,4 @@
-<style>
-    .tg {
-        border-collapse: collapse;
-        border-spacing: 0;
-        width: 100%;
-    }
-
-    .tg td {
-        border-color: black;
-        border-style: solid;
-        border-width: 1px;
-        font-family: Arial, sans-serif;
-        font-size: 14px;
-        overflow: hidden;
-        padding: 10px 5px;
-        word-break: normal;
-    }
-
-    .tg th {
-        border-color: black;
-        border-style: solid;
-        border-width: 1px;
-        font-family: Arial, sans-serif;
-        font-size: 14px;
-        font-weight: normal;
-        overflow: hidden;
-        padding: 10px 5px;
-        word-break: normal;
-    }
-
-    .tg .tg-0lax {
-        text-align: left;
-        vertical-align: top
-    }
-</style>
 {{#if studentins}}
-    <h1>
-        Checked Data ( {{query.grade}}-{{query.ban}} ) :
-    </h1>
     <span>NOW DATE: {{date}}</span><br><br>
     <label for="date"></label><input type="date" id="date" name="date"
                                      value="{{date}}">
@@ -69,7 +31,7 @@
                     {{#if studentin.inTime}}
                         <td class="tg-0lax">{{studentin.inTime}}</td>
                         <td class="tg-0lax">
-                            <a onclick="revoke('{{st_id}}')">🚮 REVOKE.</a>
+                            <a onclick="revoke('{{st_id}}')">🚮 REVOKE</a>
                         </td>
                     {{/if}}
                     {{#unless studentin.inTime}}
@@ -91,6 +53,9 @@
             </tr>
             </tbody>
         </table>
+        <small>
+            *ARMS: Arrived Record Modify System
+        </small>
         <input name="class" value="{{query.grade}}" hidden>
         <input name="ban" value="{{query.ban}}" hidden>
         <input name="date" value="{{query.date}}" hidden>

@@ -1,36 +1,35 @@
-<h1>
-    Select service you want.
-</h1>
 <ul>
     <li>
-        Students
+        Students record
         <ul>
             {{#result}}
                 <br>
                 <li>
-                    {{grade}}학년
+                    {{name}}
+                    <br><br>Class
                     <select id="students_{{grade}}">
                         {{#bans}}
                             <option value="{{this}}">{{this}}</option>
                         {{/bans}}
-                    </select> 반 <a onclick="click_go('students_{{grade}}', 'students')">➡️</a>
+                    </select> <a onclick="click_go('students_{{grade}}', 'students')">➡️</a>
                 </li>
             {{/result}}
         </ul>
     </li>
     <br>
     <li>
-        Arrived
+        Arrived record
         <ul>
             {{#result}}
                 <br>
                 <li>
-                    {{grade}}학년
+                    {{name}}
+                    <br><br>Class
                     <select id="arrived_{{grade}}">
                         {{#bans}}
                             <option value="{{this}}">{{this}}</option>
                         {{/bans}}
-                    </select> 반 <a onclick="click_go('arrived_{{grade}}', 'arrived')">➡️</a>
+                    </select> <a onclick="click_go('arrived_{{grade}}', 'arrived')">➡️</a>
                 </li>
             {{/result}}
         </ul>

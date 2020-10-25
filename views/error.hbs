@@ -1,3 +1,39 @@
-<h1>{{message}}</h1>
-<h2>{{error.status}}</h2>
-<pre>{{error.stack}}</pre>
+<h1>
+    {{#if error.status}}
+        {{error.status}}
+    {{/if}}
+    {{#if message}}
+        {{message}}
+    {{/if}}
+</h1>
+<code>
+    {{#if error.stack}}
+        <b>For clients:</b>
+        <br>
+    {{/if}}
+    Sorry for this inconvenience.
+    <br>
+    We will redirect to <a href="/" class="blue">main page</a> in <span id="second">3</span>secs.
+</code>
+{{#if error.stack}}
+    <hr>
+    <code>
+        <b>DEV error stacks:</b>
+        <br>
+        {{error.stack}}
+    </code>
+{{/if}}
+{{#unless error.stack}}
+    <script>
+        setTimeout(() => {
+            document.getElementById('second').textContent = '2'
+        }, 1000)
+        setTimeout(() => {
+            document.getElementById('second').textContent = '1'
+        }, 2000)
+        setTimeout(() => {
+            document.getElementById('second').textContent = '0'
+            window.location.href = '/'
+        }, 3000)
+    </script>
+{{/unless}}
