@@ -1,11 +1,12 @@
-<h1>
+<p>
     {{#if error.status}}
-        {{error.status}}
+        ErrorCode: {{error.status}}
+        <br>
     {{/if}}
     {{#if message}}
-        {{message}}
+        ErrorMessage: {{message}}
     {{/if}}
-</h1>
+</p>
 <code>
     {{#if error.stack}}
         <b>For clients:</b>
@@ -14,6 +15,8 @@
     Sorry for this inconvenience.
     <br>
     We will redirect to <a href="/" class="blue">main page</a> in <span id="second">3</span>secs.
+    <br>
+    If the problem continues, please report to Administrator.
 </code>
 {{#if error.stack}}
     <hr>
